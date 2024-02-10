@@ -10,7 +10,7 @@ def main():
     
     bucket_key = 'bucket1'
     bucket_capacity = 10
-    leak_rate = 0.1  # Tokens per second
+    leak_rate = 0.1  # leak rate
 
     
     for i in range(15):
